@@ -39,7 +39,7 @@ Tusaale:
 
 ---
 
-### **3. Faallooyinka**  
+### **3. Faallooyinka / Comments**  
 - **Hal-safka ah (Single-line):**  
   ```javascript
   // Tani waa faallo hal saf ah
