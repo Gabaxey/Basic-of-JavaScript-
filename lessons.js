@@ -151,7 +151,6 @@ for (let i = 1; i <= 10; i++) {
 // // syntax 
 // while(condition){
 //     //  code to be excuted in each iteration 
-// }
 // // 4.4 Do while 
 // // syntax 
 // do{
